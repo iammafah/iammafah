@@ -1,6 +1,48 @@
-# 💫 About Me:
-I am a backend-focused developer building real-world systems from the ground up with a strong emphasis on clean architecture, scalability, and long-term maintainability.<br><br>Currently, I am working on a backend-first product, where I design APIs, databases, and authentication flows before touching the frontend. I prefer slow, deliberate development over rushed implementations, ensuring that every component is well-structured and production-ready.<br><br>My primary stack revolves around Python, Flask/Django, and SQL-based databases, with a growing focus on system design, API security (JWT), and data modeling. I enjoy breaking complex problems into simple, reliable backend solutions.<br><br>I am actively looking to collaborate on backend systems, API-driven products, and automation projects, and I value thoughtful feedback on architecture, scalability, and real-world engineering decisions.<br><br>I believe strong products are built through clarity, discipline, and consistency, not shortcuts.
+## 👋 About Me
 
+I am a **backend-focused developer** building **real-world, production-ready systems** with a strong focus on **clean architecture, scalability, and long-term maintainability**.
+
+I follow a **backend-first approach** — designing **APIs, databases, authentication flows, and system logic** before anything else. I prioritize **clarity and structure over speed**, ensuring systems remain stable, secure, and scalable in real-world environments.
+
+My work focuses on **backend systems, API-driven architectures, automation, and data modeling**, with attention to **security, performance, and reliability**. I enjoy simplifying complex problems into **robust backend solutions** that scale well over time.
+
+I’m open to collaborating on **backend systems, API-based products, and automation projects**, especially where **architecture and real-world constraints matter**.
+
+---
+
+## 🔗 Professional Links
+- 💼 LinkedIn: https://www.linkedin.com/in/iammafah  
+- 💻 GitHub: https://github.com/iammafah  
+
+---
+
+## 🧠 Core Skills
+- Backend Development  
+- API Design & Integration  
+- Database Design & Optimization  
+- Authentication & Authorization  
+- Automation & Workflow Design  
+- Secure & Scalable System Architecture  
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammafah&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammafah&layout=compact&theme=dark)
+
+---
+
+> _“Strong backend systems are built with discipline, clarity, and real-world thinking — not shortcuts.”_
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iammafah/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iammafah/) 
